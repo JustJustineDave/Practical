@@ -1,0 +1,17 @@
+body{
+  margin: auto;
+  width: 25%;
+  border-style: ridge;
+  padding: 10px;
+  background-color: gray;
+  border-radius: 12px;
+  padding: 5px;
+}
+h2{
+	 text-align: center;
+	 background-color: lightblue;
+}
+form{
+	text-align: center;
+	background-color: white;
+}	

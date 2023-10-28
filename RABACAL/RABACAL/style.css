@@ -1,0 +1,23 @@
+body{
+	margin: auto;
+	width: 30%;
+	border: 3px solid white;
+	border-style: ridge; 
+	padding: 0px;
+	background-color: grey;
+	
+}
+h2{
+	text-align: center;
+	background-color: lightblue;
+	padding-top: 0px;
+}
+
+label{
+}
+
+form{
+	text-align: center;
+	background-color: white;
+
+}
